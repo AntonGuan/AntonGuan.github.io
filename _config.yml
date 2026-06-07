@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tong Guan"
-description              : "Multimodal learning · Time series"
+description              : "Multimodal learning · Time series · Generative AI"
 repository               : "AntonGuan/AntonGuan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tong Guan"
   avatar           : "images/avatar.jpg"
-  bio              : "PhD Candidate, Zhejiang University<br>Visiting PhD, Griffith University"
+  bio              : "PhD Candidate, Zhejiang University<br>Visiting PhD Student, Griffith University"
   location         : "Gold Coast, Australia"
   employer         :
   pubmed           :
