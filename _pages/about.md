@@ -45,6 +45,11 @@ His research interests include multimodal learning, time series, and generative 
 <span style="color:#d6336c">**Tong Guan**</span>, Z. Meng, D. Li, S. Wang, C.-H. H. Yang, Q. Wen, Z. Liu, S. M. Siniscalchi, et al.
 
 - Incentivizing complex reasoning with time series in large language models.
+
+<a href="https://huggingface.co/collections/anton-hugging/timeomni-1-from-4b-to-9b"><img src="https://img.shields.io/badge/TimeOmni--1-Model-yellow?logo=huggingface&logoColor=white" alt="Model"></a>
+<a href="https://huggingface.co/datasets/anton-hugging/timeomni-1-testbed"><img src="https://img.shields.io/badge/TimeOmni--1-Dataset-orange?logo=huggingface&logoColor=white" alt="Dataset"></a>
+<a href="https://huggingface.co/spaces/anton-hugging/TimeOmni-1"><img src="https://img.shields.io/badge/TimeOmni--1-Demo-blue?logo=huggingface&logoColor=white" alt="Demo"></a>
+<a href="https://github.com/AntonGuan/TimeOmni-1"><img src="https://img.shields.io/badge/TimeOmni--1-Inference%20Code-536af5?logo=github&logoColor=white" alt="Inference Code"></a>
 </div>
 </div>
 
@@ -56,6 +61,11 @@ His research interests include multimodal learning, time series, and generative 
 <span style="color:#d6336c">**Tong Guan**</span>, S. Pan, J. Barthelemy, Z. Li, Y. Cai, C. Alippi, M. Jin, S. Pan
 
 - Unified models for time series understanding and generation.
+
+<a href="https://huggingface.co/TimeOmni-VL/TimeOmni-VL"><img src="https://img.shields.io/badge/TimeOmni--VL-Model-yellow?logo=huggingface&logoColor=white" alt="Model"></a>
+<a href="https://huggingface.co/datasets/TimeOmni-VL/TSUMM-Suite_Training"><img src="https://img.shields.io/badge/TSUMM--Suite-Dataset-orange?logo=huggingface&logoColor=white" alt="Dataset"></a>
+<a href="https://huggingface.co/spaces/anton-hugging/TimeOmni-VL"><img src="https://img.shields.io/badge/TimeOmni--VL-Demo-blue?logo=huggingface&logoColor=white" alt="Demo"></a>
+<a href="https://github.com/AntonGuan/TimeOmni-VL"><img src="https://img.shields.io/badge/TimeOmni--VL-Code-536af5?logo=github&logoColor=white" alt="Code"></a>
 </div>
 </div>
 
