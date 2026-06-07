@@ -17,42 +17,119 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Tong Guan is currently a Visiting PhD Student at the School of Information and Communication Technology, Griffith University (2024–present), where he is mentored by Dr [Ming Jin](https://mingjin.dev/) and Prof. [Shirui Pan](https://shiruipan.github.io/) in the [Trustworthy AGI (TrustAGI) Lab](https://trust-agi.github.io/), where his research focuses on multimodal time series analysis.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+He is a PhD candidate in the College of Control Science and Engineering at Zhejiang University (2021–present), advised by Prof. [Jun Liang](http://www.cse.zju.edu.cn/2011/0225/c72511a2660323/page.htm). Prior to that, he received his B.Eng. from the College of Control Science and Engineering, Zhejiang University (2017–2021).
+
+His research interests include multimodal learning, time series, and generative AI.
+
+<!-- Citation count hidden until the Google Scholar stats crawler has populated data.
+<a href='https://scholar.google.com/citations?user=Xgp-fIgAAAAJ&hl=zh-CN'>Google Scholar citations <strong><span id='total_cit'>0</span></strong></a> <a href='https://scholar.google.com/citations?user=Xgp-fIgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+-->
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.06*: &nbsp;Serving as a Program Committee member for [MILETS Workshop @ KDD 2026](https://kdd-milets.github.io/milets2026/), Mining and Learning from Time Series, Jeju, South Korea.
+- *2026.04*: &nbsp;Paper *TimeOmni-VL: Unified Models for Time Series Understanding and Generation* accepted at ICML 2026. ![](https://img.shields.io/badge/CORE-A*-e74c3c) ![](https://img.shields.io/badge/CCF-A-e74c3c)
+- *2026.01*: &nbsp;Paper *TimeOmni-1: Incentivizing Complex Reasoning with Time Series in Large Language Models* accepted at ICLR 2026. ![](https://img.shields.io/badge/CORE-A*-e74c3c) ![](https://img.shields.io/badge/CCF-A-e74c3c)
+- *2025.11*: &nbsp;Serving as a Program Committee member for [AI4TS Workshop @ AAAI 2026](https://ai4ts.github.io/aaai2026), AI for Time Series Analysis, Singapore.
+- *2025.11*: &nbsp;Served as a Program Committee member for the [Workshop on Rethinking Financial Time-Series (RFTS) at ICAIF '25](https://icaif25-rfts.github.io/), Singapore.
 
-# 📝 Publications 
+# 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/paper/timeomni1-iclr-2026.png' alt="TimeOmni-1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[TimeOmni-1: Incentivizing Complex Reasoning with Time Series in Large Language Models](https://arxiv.org/abs/2509.24803)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+<span style="color:#d6336c">**Tong Guan**</span>, Z. Meng, D. Li, S. Wang, C.-H. H. Yang, Q. Wen, Z. Liu, S. M. Siniscalchi, et al.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Incentivizing complex reasoning with time series in large language models.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/paper/timeomnivl-icml-2026.png' alt="TimeOmni-VL" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[TimeOmni-VL: Unified Models for Time Series Understanding and Generation](https://arxiv.org/abs/2602.17149)
+
+<span style="color:#d6336c">**Tong Guan**</span>, S. Pan, J. Barthelemy, Z. Li, Y. Cai, C. Alippi, M. Jin, S. Pan
+
+- Unified models for time series understanding and generation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW WebST'25 Workshop</div><img src='images/paper/graphstage-2025.png' alt="GraphSTAGE" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GraphSTAGE: Channel-Preserving Graph Neural Networks for Time Series Forecasting](https://openreview.net/forum?id=5dKiZeF3MD)
+
+<span style="color:#d6336c">**Tong Guan**</span>, K. Ma, J. Peng, J. Liang, B. Du, M. Jin, S. Pan
+
+- Channel-preserving graph neural networks for time series forecasting.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2023</div><img src='images/paper/stgmmoe-2023.png' alt="STGMMOE" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spatial-Temporal Graph Multi-Gate Mixture-of-Expert Model for Traffic Prediction](https://ieeexplore.ieee.org/abstract/document/10422273)
+
+<span style="color:#d6336c">**Tong Guan**</span>, J. Peng, J. Liang
+
+- A spatial-temporal graph multi-gate mixture-of-expert model for traffic prediction.
+</div>
+</div>
+
+### Other Publications
+- [AION: Next-Generation Tasks and Practical Harness for Time Series](https://arxiv.org/abs/2605.25045). T. Zhan, X. Song, <span style="color:#d6336c">**Tong Guan**</span>, S. Pan, M. Jin. *arXiv:2605.25045*, 2026.
+- Accurate Spatial Representation and Propagation Without Prior Knowledge for Traffic Forecasting. K. Ma, X. Yan, <span style="color:#d6336c">**Tong Guan**</span>, J. Peng, J. Liang. **CCC 2025**. ![](https://img.shields.io/badge/CAC-A-e74c3c)
+- Trajectory Planning for Unmanned Surface Vessels in Confined Waters. Y. Zhan, J. Fan, <span style="color:#d6336c">**Tong Guan**</span>, J. Liang. **CAC 2024**. ![](https://img.shields.io/badge/CAC-A-e74c3c)
+- An Optimal Trajectory Planning for Automated On-Ramp Merging. J. Liang, <span style="color:#d6336c">**Tong Guan**</span>, D. Liu, X. Liu, Z. Luan, H. Liu, X. Yuan. **IET Intelligent Transport Systems**, 17(5):835–847, 2023. ![](https://img.shields.io/badge/CAC-A-e74c3c)
+- Spatial-Temporal Graph Discriminant AutoEncoder for Traffic Congestion Forecasting. J. Peng, <span style="color:#d6336c">**Tong Guan**</span>, J. Liang. **ITSC 2023**. ![](https://img.shields.io/badge/CAC-A-e74c3c)
+- MND-GAN: A Research on Image Deblurring Algorithm Based on Generative Adversarial Network. J. Peng, <span style="color:#d6336c">**Tong Guan**</span>, F. Liu, J. Liang. **CCC 2023**. ![](https://img.shields.io/badge/CAC-A-e74c3c)
+- A Bipartite Graph Based Method for Traffic Continuous Data Imputation. J. Peng, <span style="color:#d6336c">**Tong Guan**</span>, J. Liang. **CAC 2023**. ![](https://img.shields.io/badge/CAC-A-e74c3c)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - present*, PhD candidate, College of Control Science and Engineering, Zhejiang University.
+- *2024 - present*, Visiting PhD Student, School of ICT, Griffith University.
+- *2017.09 - 2021.06*, B.Eng., College of Control Science and Engineering, Zhejiang University.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🧑‍🏫 Academic Services
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+**💬 Conference Reviewer**
+
+- [NeurIPS 2026](https://neurips.cc/Conferences/2026) — Conference on Neural Information Processing Systems, Sydney, Australia ![](https://img.shields.io/badge/CORE-A*-e74c3c) ![](https://img.shields.io/badge/CCF-A-e74c3c)
+
+- [ICLR 2026](https://iclr.cc/Conferences/2026) — Int'l Conference on Learning Representations, Rio de Janeiro, Brazil ![](https://img.shields.io/badge/CORE-A*-e74c3c) ![](https://img.shields.io/badge/CCF-A-e74c3c)
+
+- [ICLR 2025](https://iclr.cc/Conferences/2025) — Int'l Conference on Learning Representations, Singapore ![](https://img.shields.io/badge/CORE-A*-e74c3c) ![](https://img.shields.io/badge/CCF-A-e74c3c)
+
+- [ICASSP 2026](https://2026.ieeeicassp.org/) — IEEE Int'l Conference on Acoustics, Speech and Signal Processing, Barcelona, Spain ![](https://img.shields.io/badge/CORE-B-e8821e) ![](https://img.shields.io/badge/CCF-B-e8821e)
+
+**📄 Journal Reviewer**
+
+- [ACM Transactions on Intelligent Systems and Technology (TIST)](https://dl.acm.org/journal/tist) — ACM ![](https://img.shields.io/badge/CCF-B-e8821e)
+
+- [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) — IEEE ![](https://img.shields.io/badge/CCF-B-e8821e)
+
+- [IEEE Transactions on Cognitive and Developmental Systems (TCDS)](https://cis.ieee.org/publications/t-cognitive-and-developmental-systems) — IEEE ![](https://img.shields.io/badge/CCF-C-2e8b57)
+
+- [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) — Elsevier ![](https://img.shields.io/badge/CCF-C-2e8b57)
+
+- [IET Intelligent Transport Systems](https://ietresearch.onlinelibrary.wiley.com/journal/17519578) — IET
+
+**🗒️ Program Committee**
+
+- [MILETS Workshop @ KDD 2026](https://kdd-milets.github.io/milets2026/) — Mining and Learning from Time Series, Jeju, South Korea ![](https://img.shields.io/badge/CORE-A*-e74c3c) ![](https://img.shields.io/badge/CCF-A-e74c3c)
+
+- [AI4TS Workshop @ AAAI 2026](https://ai4ts.github.io/aaai2026) — AI for Time Series Analysis, Singapore ![](https://img.shields.io/badge/CORE-A*-e74c3c) ![](https://img.shields.io/badge/CCF-A-e74c3c)
+
+- [RFTS Workshop @ ICAIF 2025](https://icaif25-rfts.github.io/) — Rethinking Financial Time-Series, Singapore
+
+<br>
+
+<div style="width: 30%; margin: 0 auto; text-align: center;">
+<!-- Visitor map (MapMyVisitors) -->
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=o0xcammCZ9U74V8GLO4ZQhMSrOjuaba23BywCTQ-q7Y&cl=ffffff&w=a"></script>
+</div>
