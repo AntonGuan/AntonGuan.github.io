@@ -30,6 +30,7 @@ His research interests include multimodal learning, time series, and generative 
 
 # 🔥 News
 - *2026.06*: &nbsp;Serving as a Program Committee member for [MILETS Workshop @ KDD 2026](https://kdd-milets.github.io/milets2026/), Mining and Learning from Time Series, Jeju, South Korea.
+- *2026.05*: &nbsp;🎉 Our latest preprint *AION: Next-Generation Tasks and Practical Harness for Time Series* is out on [arXiv](https://arxiv.org/abs/2605.25045). See the [project page](https://ztxtech.github.io/aion/).
 - *2026.04*: &nbsp;*TimeOmni-VL: Unified Models for Time Series Understanding and Generation* accepted at ICML 2026. ![](https://img.shields.io/badge/CORE-A*-e74c3c) ![](https://img.shields.io/badge/CCF-A-e74c3c)
 - *2026.01*: &nbsp;*TimeOmni-1: Incentivizing Complex Reasoning with Time Series in Large Language Models* accepted at ICLR 2026. ![](https://img.shields.io/badge/CORE-A*-e74c3c) ![](https://img.shields.io/badge/CCF-A-e74c3c)
 - *2025.11*: &nbsp;Serving as a Program Committee member for [AI4TS Workshop @ AAAI 2026](https://ai4ts.github.io/aaai2026), AI for Time Series Analysis, Singapore.
@@ -93,7 +94,7 @@ His research interests include multimodal learning, time series, and generative 
 </div>
 
 ### Other Publications
-- [AION: Next-Generation Tasks and Practical Harness for Time Series](https://arxiv.org/abs/2605.25045). T. Zhan, X. Song, <span style="color:#d6336c">**Tong Guan**</span>, S. Pan, M. Jin. *arXiv:2605.25045*, 2026.
+- [AION: Next-Generation Tasks and Practical Harness for Time Series](https://arxiv.org/abs/2605.25045). T. Zhan, X. Song, <span style="color:#d6336c">**Tong Guan**</span>, S. Pan, M. Jin. *arXiv:2605.25045*, 2026. [[Website]](https://ztxtech.github.io/aion/)
 - Accurate Spatial Representation and Propagation Without Prior Knowledge for Traffic Forecasting. K. Ma, X. Yan, <span style="color:#d6336c">**Tong Guan**</span>, J. Peng, J. Liang. **CCC 2025**. ![](https://img.shields.io/badge/CAC-A-e74c3c)
 - Trajectory Planning for Unmanned Surface Vessels in Confined Waters. Y. Zhan, J. Fan, <span style="color:#d6336c">**Tong Guan**</span>, J. Liang. **CAC 2024**. ![](https://img.shields.io/badge/CAC-A-e74c3c)
 - An Optimal Trajectory Planning for Automated On-Ramp Merging. J. Liang, <span style="color:#d6336c">**Tong Guan**</span>, D. Liu, X. Liu, Z. Luan, H. Liu, X. Yuan. **IET Intelligent Transport Systems**, 17(5):835–847, 2023. ![](https://img.shields.io/badge/CAC-A-e74c3c)
