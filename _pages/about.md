@@ -47,11 +47,11 @@ His research interests include multimodal learning, time series, and generative 
 
 - Incentivizing complex reasoning with time series in large language models.
 
+<a href="/assets/videos/TimeOmni-1_Demo.mp4"><img src="https://img.shields.io/badge/TimeOmni--1-Demo%20Video-e74c3c?logo=youtube&logoColor=white" alt="Demo Video"></a>
 <a href="https://huggingface.co/collections/anton-hugging/timeomni-1-from-4b-to-9b"><img src="https://img.shields.io/badge/TimeOmni--1-Model-yellow?logo=huggingface&logoColor=white" alt="Model"></a>
 <a href="https://huggingface.co/datasets/anton-hugging/timeomni-1-testbed"><img src="https://img.shields.io/badge/TimeOmni--1-Dataset-orange?logo=huggingface&logoColor=white" alt="Dataset"></a>
 <a href="https://huggingface.co/spaces/anton-hugging/TimeOmni-1"><img src="https://img.shields.io/badge/TimeOmni--1-Demo-blue?logo=huggingface&logoColor=white" alt="Demo"></a>
 <a href="https://github.com/AntonGuan/TimeOmni-1"><img src="https://img.shields.io/badge/TimeOmni--1-Inference%20Code-536af5?logo=github&logoColor=white" alt="Inference Code"></a>
-<a href="/assets/videos/TimeOmni-1_Demo.mp4"><img src="https://img.shields.io/badge/TimeOmni--1-Demo%20Video-e74c3c?logo=youtube&logoColor=white" alt="Demo Video"></a>
 </div>
 </div>
 
