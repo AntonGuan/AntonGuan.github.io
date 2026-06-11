@@ -30,9 +30,9 @@ His research interests include multimodal learning, time series, and generative 
 
 # 🔥 News
 - *2026.06*: &nbsp;Serving as a Program Committee member for [MILETS Workshop @ KDD 2026](https://kdd-milets.github.io/milets2026/), Mining and Learning from Time Series, Jeju, South Korea.
-- *2026.05*: &nbsp;🎉 Our latest preprint *AION: Next-Generation Tasks and Practical Harness for Time Series* is out on [arXiv](https://arxiv.org/abs/2605.25045). See the [project page](https://ztxtech.github.io/aion/).
-- *2026.04*: &nbsp;*TimeOmni-VL: Unified Models for Time Series Understanding and Generation* accepted at ICML 2026. ![](https://img.shields.io/badge/CORE-A*-e74c3c) ![](https://img.shields.io/badge/CCF-A-e74c3c)
-- *2026.01*: &nbsp;*TimeOmni-1: Incentivizing Complex Reasoning with Time Series in Large Language Models* accepted at ICLR 2026. ![](https://img.shields.io/badge/CORE-A*-e74c3c) ![](https://img.shields.io/badge/CCF-A-e74c3c)
+- *2026.05*: &nbsp;📄 Our latest preprint *AION: Next-Generation Tasks and Practical Harness for Time Series* is out on [arXiv](https://arxiv.org/abs/2605.25045). See the [project page](https://ztxtech.github.io/aion/).
+- *2026.04*: &nbsp;🎉 *TimeOmni-VL: Unified Models for Time Series Understanding and Generation* accepted at ICML 2026. ![](https://img.shields.io/badge/CORE-A*-e74c3c) ![](https://img.shields.io/badge/CCF-A-e74c3c)
+- *2026.01*: &nbsp;🎉 *TimeOmni-1: Incentivizing Complex Reasoning with Time Series in Large Language Models* accepted at ICLR 2026. ![](https://img.shields.io/badge/CORE-A*-e74c3c) ![](https://img.shields.io/badge/CCF-A-e74c3c)
 - *2025.11*: &nbsp;Serving as a Program Committee member for [AI4TS Workshop @ AAAI 2026](https://ai4ts.github.io/aaai2026), AI for Time Series Analysis, Singapore.
 - *2025.11*: &nbsp;Served as a Program Committee member for the [Workshop on Rethinking Financial Time-Series (RFTS) at ICAIF '25](https://icaif25-rfts.github.io/), Singapore.
 
