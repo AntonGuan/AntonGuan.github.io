@@ -38,7 +38,7 @@ His research interests include multimodal learning, time series, and generative 
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/paper/timeomni1-iclr-2026.png' alt="TimeOmni-1" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><video src='/assets/videos/TimeOmni-1_Teaser.mp4' poster='images/paper/timeomni1-iclr-2026.png' autoplay loop muted playsinline width="100%" style="border-radius:6px;">TimeOmni-1 demo teaser</video></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TimeOmni-1: Incentivizing Complex Reasoning with Time Series in Large Language Models](https://arxiv.org/abs/2509.24803)
