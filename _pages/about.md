@@ -47,6 +47,8 @@ His research interests include multimodal learning, time series, and generative 
 
 - Incentivizing complex reasoning with time series in large language models.
 
+📥 **Total Hugging Face downloads (4B + 7B + 9B):** <span id="timeomni1-downloads" style="font-weight:800;color:#e8590c;">7,561</span>
+
 <a href="/assets/videos/TimeOmni-1_Demo.mp4"><img src="https://img.shields.io/badge/TimeOmni--1-Demo%20Video-e74c3c?logo=youtube&logoColor=white" alt="Demo Video"></a>
 <a href="https://huggingface.co/collections/anton-hugging/timeomni-1-from-4b-to-9b"><img src="https://img.shields.io/badge/TimeOmni--1-Model-yellow?logo=huggingface&logoColor=white" alt="Model"></a>
 <a href="https://huggingface.co/datasets/anton-hugging/timeomni-1-testbed"><img src="https://img.shields.io/badge/TimeOmni--1-Dataset-orange?logo=huggingface&logoColor=white" alt="Dataset"></a>
@@ -63,6 +65,8 @@ His research interests include multimodal learning, time series, and generative 
 <span style="color:#d6336c">**Tong Guan**</span>, S. Pan, J. Barthelemy, Z. Li, Y. Cai, C. Alippi, M. Jin, S. Pan
 
 - Unified models for time series understanding and generation.
+
+📥 **Total Hugging Face downloads:** <span id="timeomnivl-downloads" style="font-weight:800;color:#e8590c;">113</span>
 
 <a href="https://huggingface.co/TimeOmni-VL/TimeOmni-VL"><img src="https://img.shields.io/badge/TimeOmni--VL-Model-yellow?logo=huggingface&logoColor=white" alt="Model"></a>
 <a href="https://huggingface.co/datasets/TimeOmni-VL/TSUMM-Suite_Training"><img src="https://img.shields.io/badge/TSUMM--Suite-Dataset-orange?logo=huggingface&logoColor=white" alt="Dataset"></a>
@@ -95,6 +99,11 @@ His research interests include multimodal learning, time series, and generative 
 
 ### Other Publications
 - [AION: Next-Generation Tasks and Practical Harness for Time Series](https://arxiv.org/abs/2605.25045). T. Zhan, X. Song, <span style="color:#d6336c">**Tong Guan**</span>, S. Pan, M. Jin. *arXiv:2605.25045*, 2026. [[Website]](https://ztxtech.github.io/aion/)
+
+<video controls width="520" style="max-width:calc(100% - 2em); display:block; margin:10px 0 10px 2em; border-radius:6px; box-shadow:0 1px 6px rgba(0,0,0,.2);">
+<source src="/assets/videos/aion-demo.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 - Accurate Spatial Representation and Propagation Without Prior Knowledge for Traffic Forecasting. K. Ma, X. Yan, <span style="color:#d6336c">**Tong Guan**</span>, J. Peng, J. Liang. **CCC 2025**. ![](https://img.shields.io/badge/CAC-A-e74c3c)
 - Trajectory Planning for Unmanned Surface Vessels in Confined Waters. Y. Zhan, J. Fan, <span style="color:#d6336c">**Tong Guan**</span>, J. Liang. **CAC 2024**. ![](https://img.shields.io/badge/CAC-A-e74c3c)
 - An Optimal Trajectory Planning for Automated On-Ramp Merging. J. Liang, <span style="color:#d6336c">**Tong Guan**</span>, D. Liu, X. Liu, Z. Luan, H. Liu, X. Yuan. **IET Intelligent Transport Systems**, 17(5):835–847, 2023. [![](https://img.shields.io/badge/SJR-Q1-1f7ed0)](https://www.scimagojr.com/journalsearch.php?q=5400152639&tip=sid&clean=0)
@@ -145,3 +154,26 @@ His research interests include multimodal learning, time series, and generative 
 <!-- Visitor map (MapMyVisitors) -->
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=o0xcammCZ9U74V8GLO4ZQhMSrOjuaba23BywCTQ-q7Y&cl=ffffff&w=a"></script>
 </div>
+
+<!-- Live cumulative Hugging Face download counts (summed across model variants) -->
+<script>
+(function () {
+  var fmt = function (n) { return n.toLocaleString('en-US'); };
+  function dl(repo) {
+    return fetch('https://huggingface.co/api/models/' + repo + '?expand[]=downloadsAllTime')
+      .then(function (r) { return r.json(); })
+      .then(function (j) { return (j && typeof j.downloadsAllTime === 'number') ? j.downloadsAllTime : null; })
+      .catch(function () { return null; });
+  }
+  function setTotal(id, repos) {
+    var el = document.getElementById(id);
+    if (!el) return;
+    Promise.all(repos.map(dl)).then(function (counts) {
+      if (counts.some(function (c) { return c === null; })) return; // keep fallback on any failure
+      el.textContent = fmt(counts.reduce(function (a, b) { return a + b; }, 0));
+    });
+  }
+  setTotal('timeomni1-downloads', ['anton-hugging/TimeOmni-1-7B', 'TimeOmni-1/TimeOmni-1-4B', 'TimeOmni-1/TimeOmni-1-9B']);
+  setTotal('timeomnivl-downloads', ['TimeOmni-VL/TimeOmni-VL']);
+})();
+</script>
