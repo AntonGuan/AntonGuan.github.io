@@ -47,7 +47,7 @@ His research interests include multimodal learning, time series, and generative 
 
 - Incentivizing complex reasoning with time series in large language models.
 
-📥 **Total Hugging Face downloads (4B + 7B + 9B):** <span id="timeomni1-downloads" style="font-weight:800;color:#e8590c;">7,561</span>
+**Total Hugging Face downloads (4B + 7B + 9B):** 📥<span id="timeomni1-downloads" style="font-weight:800;color:#e8590c;">7,561</span>
 
 <a href="/assets/videos/TimeOmni-1_Demo.mp4"><img src="https://img.shields.io/badge/TimeOmni--1-Demo%20Video-e74c3c?logo=youtube&logoColor=white" alt="Demo Video"></a>
 <a href="https://huggingface.co/collections/anton-hugging/timeomni-1-from-4b-to-9b"><img src="https://img.shields.io/badge/TimeOmni--1-Model-yellow?logo=huggingface&logoColor=white" alt="Model"></a>
@@ -66,7 +66,7 @@ His research interests include multimodal learning, time series, and generative 
 
 - Unified models for time series understanding and generation.
 
-📥 **Total Hugging Face downloads:** <span id="timeomnivl-downloads" style="font-weight:800;color:#e8590c;">113</span>
+**Total Hugging Face downloads:** 📥<span id="timeomnivl-downloads" style="font-weight:800;color:#e8590c;">113</span>
 
 <a href="https://huggingface.co/TimeOmni-VL/TimeOmni-VL"><img src="https://img.shields.io/badge/TimeOmni--VL-Model-yellow?logo=huggingface&logoColor=white" alt="Model"></a>
 <a href="https://huggingface.co/datasets/TimeOmni-VL/TSUMM-Suite_Training"><img src="https://img.shields.io/badge/TSUMM--Suite-Dataset-orange?logo=huggingface&logoColor=white" alt="Dataset"></a>
@@ -100,7 +100,7 @@ His research interests include multimodal learning, time series, and generative 
 ### Other Publications
 - [AION: Next-Generation Tasks and Practical Harness for Time Series](https://arxiv.org/abs/2605.25045). T. Zhan, X. Song, <span style="color:#d6336c">**Tong Guan**</span>, S. Pan, M. Jin. *arXiv:2605.25045*, 2026. [[Website]](https://ztxtech.github.io/aion/)
 
-<video controls width="520" style="max-width:calc(100% - 2em); display:block; margin:10px 0 10px 2em; border-radius:6px; box-shadow:0 1px 6px rgba(0,0,0,.2);">
+<video autoplay muted loop playsinline controls width="520" style="max-width:calc(100% - 2em); display:block; margin:10px 0 10px 2em; border-radius:6px; box-shadow:0 1px 6px rgba(0,0,0,.2);">
 <source src="/assets/videos/aion-demo.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
