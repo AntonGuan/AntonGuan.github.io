@@ -122,6 +122,8 @@ Your browser does not support the video tag.
 
 - [NeurIPS 2026](https://neurips.cc/Conferences/2026) — Conference on Neural Information Processing Systems, Sydney, Australia [![](https://img.shields.io/badge/CORE-A*-e74c3c)](https://portal.core.edu.au/conf-ranks/?search=NeurIPS) ![](https://img.shields.io/badge/CCF-A-e74c3c)
 
+- [ICLR 2027](https://iclr.cc/Conferences/2027) — Int'l Conference on Learning Representations, San Francisco, USA [![](https://img.shields.io/badge/CORE-A*-e74c3c)](https://portal.core.edu.au/conf-ranks/?search=ICLR) ![](https://img.shields.io/badge/CCF-A-e74c3c)
+
 - [ICLR 2026](https://iclr.cc/Conferences/2026) — Int'l Conference on Learning Representations, Rio de Janeiro, Brazil [![](https://img.shields.io/badge/CORE-A*-e74c3c)](https://portal.core.edu.au/conf-ranks/?search=ICLR) ![](https://img.shields.io/badge/CCF-A-e74c3c)
 
 - [ICLR 2025](https://iclr.cc/Conferences/2025) — Int'l Conference on Learning Representations, Singapore [![](https://img.shields.io/badge/CORE-A*-e74c3c)](https://portal.core.edu.au/conf-ranks/?search=ICLR) ![](https://img.shields.io/badge/CCF-A-e74c3c)
@@ -134,6 +136,8 @@ Your browser does not support the video tag.
 
 - [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) — IEEE ![](https://img.shields.io/badge/CCF-B-e8821e)
 
+- [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition) — Elsevier ![](https://img.shields.io/badge/CCF-B-e8821e)
+
 - [IEEE Transactions on Cognitive and Developmental Systems (TCDS)](https://cis.ieee.org/publications/t-cognitive-and-developmental-systems) — IEEE ![](https://img.shields.io/badge/CCF-C-2e8b57)
 
 - [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) — Elsevier ![](https://img.shields.io/badge/CCF-C-2e8b57)
@@ -141,6 +145,8 @@ Your browser does not support the video tag.
 - [IET Intelligent Transport Systems](https://ietresearch.onlinelibrary.wiley.com/journal/17519578) — IET
 
 **🗒️ Program Committee**
+
+- [FMTS Workshop @ NeurIPS 2026](https://fmts-workshop.github.io/) — Foundation Models for Temporal Systems, Sydney, Australia [![](https://img.shields.io/badge/CORE-A*-e74c3c)](https://portal.core.edu.au/conf-ranks/?search=NeurIPS) ![](https://img.shields.io/badge/CCF-A-e74c3c)
 
 - [MILETS Workshop @ KDD 2026](https://kdd-milets.github.io/milets2026/) — Mining and Learning from Time Series, Jeju, South Korea [![](https://img.shields.io/badge/CORE-A*-e74c3c)](https://portal.core.edu.au/conf-ranks/?search=KDD) ![](https://img.shields.io/badge/CCF-A-e74c3c)
 
