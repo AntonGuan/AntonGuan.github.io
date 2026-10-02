@@ -29,6 +29,7 @@ His research interests include multimodal learning, time series, and generative 
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉 *Rethinking Agentic Model Orchestration for Time Series Forecasting* accepted at the NeurIPS 2026 Workshop on Foundation Models for Temporal Systems (FMTS).
 - *2026.06*: &nbsp;Serving as a Program Committee member for [MILETS Workshop @ KDD 2026](https://kdd-milets.github.io/milets2026/), Mining and Learning from Time Series, Jeju, South Korea.
 - *2026.05*: &nbsp;📝 Our latest preprint *AION: Next-Generation Tasks and Practical Harness for Time Series* is out on [arXiv](https://arxiv.org/abs/2605.25045). See the [project page](https://ztxtech.github.io/aion/).
 - *2026.04*: &nbsp;🎉 *TimeOmni-VL: Unified Models for Time Series Understanding and Generation* accepted at ICML 2026. [![](https://img.shields.io/badge/CORE-A*-e74c3c)](https://portal.core.edu.au/conf-ranks/?search=ICML) ![](https://img.shields.io/badge/CCF-A-e74c3c)
@@ -37,6 +38,17 @@ His research interests include multimodal learning, time series, and generative 
 - *2025.11*: &nbsp;Served as a Program Committee member for the [Workshop on Rethinking Financial Time-Series (RFTS) at ICAIF '25](https://icaif25-rfts.github.io/), Singapore.
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 FMTS Workshop</div><img src='images/paper/fairamo-neurips-fmts-2026.png' alt="FairAMO" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Rethinking Agentic Model Orchestration for Time Series Forecasting
+
+<span style="color:#d6336c">**Tong Guan**</span>, T. Zhan, S. Pan, M. Jin
+
+- Existing evaluations conflate candidate TSFM capabilities with orchestration quality; FairAMO isolates and fairly evaluates the contribution of orchestration.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><video src='/assets/videos/TimeOmni-1_Teaser.mp4' poster='images/paper/timeomni1-iclr-2026.png' autoplay loop muted playsinline width="100%" style="border-radius:6px;">TimeOmni-1 demo teaser</video></div></div>
 <div class='paper-box-text' markdown="1">
